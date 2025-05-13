@@ -14,7 +14,7 @@
                      <div class="container">
                         <div class="row">
                            <div class="col-md-12">
-                              <h1 class="banner_taital">Frontier Engineering And Automation Consultant</h1>
+                              <h1 class="banner_taital">rontier Engineering And Automation Consultant</h1>
                               <p class="banner_text">Making homes smarter and industries sharper with cutting-edge
                                  automation and engineering expertise.</p>
                               <div class="read_bt"><a href="#">Read More</a></div>
